@@ -2,6 +2,6 @@ hello world!
 1111111111
 2017-6-21
 2017-6-21 11:50
-2017-6-21 13£º27
-github¿Í»§¶ËÖÐÎÄÂÒÂë½â¾ö·½°¸
-ÐÞ¸Ä"README.md"ÎÄ¼þ£¬ÓÃUltraEdie»òÕßÆäËû¿ÉÒÔ´æ´¢Îªutf-8ÎÞDOMÍ·µÄÎÄ¼þ£¬È»ºóÍÆËÍÉÏÈ¥£¬¼´¿É½â¾öÖÐÎÄÂÒÂëÏÖÏó¡£
+2017-6-21 13ï¼š27
+githubå®¢æˆ·ç«¯ä¸­æ–‡ä¹±ç è§£å†³æ–¹æ¡ˆ
+ä¿®æ”¹"README.md"æ–‡ä»¶ï¼Œç”¨UltraEdieæˆ–è€…å…¶ä»–å¯ä»¥å­˜å‚¨ä¸ºutf-8æ— DOMå¤´çš„æ–‡ä»¶ï¼Œç„¶åŽæŽ¨é€ä¸ŠåŽ»ï¼Œå³å¯è§£å†³ä¸­æ–‡ä¹±ç çŽ°è±¡ã€‚
